@@ -9,6 +9,7 @@ Welcome to Q&A Bot, a simple question and answer bot powered by AI! This README 
 - [Information on AI Model or API Used](#information-on-ai-model-or-api-used)
 - [How to Test](#how-to-test)
 - [Other Necessary Information](#other-necessary-information)
+- [Author](#author)
 
 ## Setup and Run Instructions
 
